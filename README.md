@@ -46,7 +46,7 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 
 ### Lección 1: ¿Qué es una página web? (8 minutos)
 - **Descripción**: Aprende de qué están hechas las páginas web y qué función cumplen HTML y CSS.
-- **Enlace**: [Ver la lección](https://youtu.be/2W8oCqhjmNU)
+- **Enlace**: [Ver la lección](https://youtu.be/EXjV1Dni_5U)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
 - **Empieza a programar**: Enlace pendiente
 
@@ -86,7 +86,7 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 
 | Lección # | Actividad | Duración | Editor precargado |
 |----------|----------|----------|-------------|
-| 1 | ¿Qué es una página web? | 8 min | [YouTube](https://youtu.be/2W8oCqhjmNU) |
+| 1 | ¿Qué es una página web? | 8 min | [YouTube](https://youtu.be/EXjV1Dni_5U) |
 | 2 | Primeros pasos con HTML | 11 min | [YouTube](https://www.youtube.com/watch?v=JE2ZgT4mFgQ) |
 | 3 | Listas, imágenes y enlaces | 8 min | Pendiente |
 | 4 | Introducción a CSS | 12 min | Pendiente |
