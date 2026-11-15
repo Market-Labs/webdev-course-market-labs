@@ -1,6 +1,6 @@
 # Fundamentos de Desarrollo Web
 ## Resumen del Curso
-Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. La práctica consiste en crear **_Sazón Peruana_**, una página educativa dedicada al ceviche peruano. ¡No requiere descargas! Solo abre tu navegador web.
+Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. ¡No requiere descargas! Solo abre tu navegador web.
 
 **Duración total**: ~60 minutos
 
