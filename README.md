@@ -64,9 +64,9 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con selectores y propiedades de color, fuente, espacio y borde.
-- **Enlace**: Pendiente
+- **Enlace**: [Ver la lección](https://youtu.be/nrg-mf4c1mo)
 - **Consejos clave**: Vincular la hoja de estilos «styles.css» y usar selectores como `body { background-color: blue; }`.
-- **Práctica**: Enlace pendiente
+- **Práctica**: [Ver código completado](https:/
 
 ### Lección 5: Crear una página web de recetas (15 minutos)
 - **Descripción**: Combina HTML y CSS para crear **Sazón Peruana**, un recetario de ceviche con portada, ingredientes, preparación y pie de página.
