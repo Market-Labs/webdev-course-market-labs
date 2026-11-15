@@ -70,13 +70,13 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 
 ### Lección 5: Crear una página web de recetas (15 minutos)
 - **Descripción**: Combina HTML y CSS para crear **Sazón Peruana**, un recetario de ceviche con portada, ingredientes, preparación y pie de página.
-- **Enlace**: Pendiente
+- **Enlace**: [Ver la lección](https://youtu.be/MUGvDReyn90)
 - **Consejos clave**: Aplicar estilos, adaptar la página a pantallas pequeñas y depurar errores.
 - **Proyecto Final**: [Ver código completado](completed-examples/Lesson%205/index.html)
 
 ### Lección 6: Errores comunes y próximos pasos (7 minutos)
 - **Descripción**: Revisa los errores más comunes y los pasos para seguir aprendiendo.
-- **Enlace**: Pendiente
+- **Enlace**: [Ver la lección](https://youtu.be/LPY6FdOzKLs)
 - **Consejos clave**: Revisa las rutas de las imágenes y el nombre de la hoja de estilos.
 - **Comparte tu Trabajo**: Enlace pendiente
 
@@ -90,8 +90,8 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 | 2 | Primeros pasos con HTML | 11 min | [YouTube](https://www.youtube.com/watch?v=JE2ZgT4mFgQ) |
 | 3 | Listas, imágenes y enlaces | 8 min | Pendiente |
 | 4 | Introducción a CSS | 12 min | [YouTube](https://youtu.be/nrg-mf4c1mo) |
-| 5 | Crear una página web de recetas | 15 min | Pendiente |
-| 6 | Errores comunes y próximos pasos | 7 min | Pendiente |
+| 5 | Crear una página web de recetas | 15 min | [YouTube](https://youtu.be/MUGvDReyn90) |
+| 6 | Errores comunes y próximos pasos | 7 min | [YouTube](https://youtu.be/LPY6FdOzKLs) |
 | **Total** | | **60 min** | |
 
 ## Créditos de las fotografías
