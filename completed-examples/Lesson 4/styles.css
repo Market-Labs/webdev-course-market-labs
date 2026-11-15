@@ -1,0 +1,16 @@
+/* Lección 4: Introducción a CSS — resultado final */
+body {
+  background-color: #f7f4eb;      /* color de fondo */
+  font-family: Arial, sans-serif; /* tipo de letra */
+}
+
+h1 {
+  color: teal;
+}
+
+main {
+  max-width: 600px;         /* ancho máximo */
+  margin: auto;             /* centra la caja */
+  padding: 24px;            /* espacio interior */
+  border: 2px solid teal;   /* grosor, tipo de línea y color */
+}

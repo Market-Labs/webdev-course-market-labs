@@ -65,8 +65,8 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 ### Lección 4: Introducción a CSS (12 minutos)
 - **Descripción**: Dale estilo a tu HTML con selectores y propiedades de color, fuente, espacio y borde.
 - **Enlace**: [Ver la lección](https://youtu.be/nrg-mf4c1mo)
-- **Consejos clave**: Vincular la hoja de estilos «styles.css» y usar selectores como `body { background-color: blue; }`.
-- **Práctica**: [Ver código completado](https://jsfiddle.net/q4pkxz7b/1/)
+- **Consejos clave**: Una regla CSS tiene selector, propiedad y valor: `h1 { color: teal; }`. Usa `body` para el fondo y la letra, y `main { max-width: 600px; margin: auto; }` para centrar el contenido.
+- **Práctica**: [Empieza a programar](https://jsfiddle.net/q4pkxz7b/) · [Ver código completado](https://jsfiddle.net/q4pkxz7b/1/)
 
 ### Lección 5: Crear una página web de recetas (15 minutos)
 - **Descripción**: Combina HTML y CSS para crear **Sazón Peruana**, un recetario de ceviche con portada, ingredientes, preparación y pie de página.
@@ -89,7 +89,7 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 | 1 | ¿Qué es una página web? | 8 min | [YouTube](https://youtu.be/EXjV1Dni_5U) |
 | 2 | Primeros pasos con HTML | 11 min | [YouTube](https://www.youtube.com/watch?v=JE2ZgT4mFgQ) |
 | 3 | Listas, imágenes y enlaces | 8 min | Pendiente |
-| 4 | Introducción a CSS | 12 min | Pendiente |
+| 4 | Introducción a CSS | 12 min | [YouTube](https://youtu.be/nrg-mf4c1mo) |
 | 5 | Crear una página web de recetas | 15 min | Pendiente |
 | 6 | Errores comunes y próximos pasos | 7 min | Pendiente |
 | **Total** | | **60 min** | |
