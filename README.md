@@ -16,7 +16,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 **Resultado**: Una página web con contenido de receta de ceviche con fotos de los ingredientes y pasos numerados.
 
-**Repositorio de código fuente**: [https://github.com/Market-Labs/social-responsability](https://github.com/Market-Labs/social-responsability)
+**Repositorio de código fuente**: [https://github.com/Market-Labs/social-responsability](https://github.com/Market-Labs/webdev-course-market-labs)
 
 ## Qué aprenderás
 - Reconocer la función de HTML y CSS en una página web.
