@@ -48,13 +48,12 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 - **Descripción**: Aprende de qué están hechas las páginas web y qué función cumplen HTML y CSS.
 - **Enlace**: [Ver la lección](https://youtu.be/EXjV1Dni_5U)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: Enlace pendiente
 
 ### Lección 2: Primeros pasos con HTML (11 minutos)
 - **Descripción**: Explora las etiquetas, elementos y atributos básicos de HTML y crea tu primera página.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=JE2ZgT4mFgQ)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`.
-- **Práctica**: Enlace pendiente
+- **Práctica**: [Ver código completado](https://jsfiddle.net/z6f5pav2/)
 
 ### Lección 3: Listas, imágenes y enlaces (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces internos para que tu página sea más completa.
