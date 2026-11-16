@@ -58,7 +58,7 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 
 ### Lección 3: Listas, imágenes y enlaces (8 minutos)
 - **Descripción**: Agrega listas, imágenes y enlaces internos para que tu página sea más completa.
-- **Enlace**: Pendiente
+- **Enlace**:  [[Ver la lección](https://www.youtube.com/watch?v=JE2ZgT4mFgQ)](https://www.youtube.com/watch?v=ePAiGl8mcns)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<ol>`, `<img>`, `<a>`.
 - **Práctica**: Enlace pendiente
 
