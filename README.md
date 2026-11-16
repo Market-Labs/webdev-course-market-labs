@@ -118,9 +118,9 @@ NRC 8130
 **Nombre del equipo**: Market-Labs
 **Líder del equipo**: Albino Caceres Pizarro
 **Integrantes del equipo**: 
-Albino Caceres Pizzarro
-Alexis
-Matias
-Matias
-Winnie Merino Ordinola 
+Albino Caceres Pizarro
+Alexis Torres Huaman
+Matias Huaranga Romero
+Andre Quise Amonacid
+Winnie Merino Ordinola
 **Fecha de entrega**: 15/11/2026
