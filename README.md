@@ -81,17 +81,17 @@ https://raw.githubusercontent.com/Market-Labs/social-responsability/main/starter
 - **Comparte tu Trabajo**: Enlace pendiente
 
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/Market-Labs/social-responsability)
+- **Código Fuente Completo**: https://github.com/Market-Labs/social-responsability
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad | Duración | Editor precargado |
 |----------|----------|----------|-------------|
-| 1 | ¿Qué es una página web? | 8 min | [YouTube](https://youtu.be/EXjV1Dni_5U) |
-| 2 | Primeros pasos con HTML | 11 min | [YouTube](https://www.youtube.com/watch?v=JE2ZgT4mFgQ) |
+| 1 | ¿Qué es una página web? | 8 min | [https://youtu.be/EXjV1Dni_5U |
+| 2 | Primeros pasos con HTML | 11 min | https://www.youtube.com/watch?v=JE2ZgT4mFgQ |
 | 3 | Listas, imágenes y enlaces | 8 min | Pendiente |
-| 4 | Introducción a CSS | 12 min | [YouTube](https://youtu.be/nrg-mf4c1mo) |
-| 5 | Crear una página web de recetas | 15 min | [YouTube](https://youtu.be/MUGvDReyn90) |
-| 6 | Errores comunes y próximos pasos | 7 min | [YouTube](https://youtu.be/LPY6FdOzKLs) |
+| 4 | Introducción a CSS | 12 min | [https://youtu.be/nrg-mf4c1mo |
+| 5 | Crear una página web de recetas | 15 min | https://youtu.be/MUGvDReyn90 |
+| 6 | Errores comunes y próximos pasos | 7 min | https://youtu.be/LPY6FdOzKLs |
 | **Total** | | **60 min** | |
 
 ## Créditos de las fotografías
